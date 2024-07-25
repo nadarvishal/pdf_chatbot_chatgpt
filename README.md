@@ -108,11 +108,4 @@ This project is a conversational chatbot that allows users to upload a PDF file 
 - Ensure your OpenAI API key is kept secure and not hard-coded in the source code.
 - The FAISS index is kept in-memory for simplicity. For larger datasets or production use, consider persisting the index to disk.
 
-## Contributing
-
-Contributions are welcome! Please create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
